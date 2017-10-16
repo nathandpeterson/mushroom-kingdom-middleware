@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/nathandpeterson/mushroom-kingdom-middleware/issues"
   },
-  "homepage": "https://github.com/nathandpeterson/mushroom-kingdom-middleware#readme"
+  "homepage": "https://github.com/nathandpeterson/mushroom-kingdom-middleware#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.12.1"
+  }
 }
